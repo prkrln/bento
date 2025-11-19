@@ -62,18 +62,18 @@ const CONFIG = {
 			name: 'Proton Mail',
 			icon: 'mail',
 			link: 'https://mail.protonmail.com/',
-		},
+		},		
 		{
 			id: '3',
-			name: 'Tidal',
-			icon: 'music',
-			link: 'https://tidal.com',
-		},
-		{
-			id: '4',
 			name: 'Cloudflare',
 			icon: 'cloud',
 			link: 'https://dash.cloudflare.com',
+		},
+		{
+			id: '4',
+			name: 'Tidal',
+			icon: 'music',
+			link: 'https://tidal.com',
 		},
 		{
 			id: '5',
