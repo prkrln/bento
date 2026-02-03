@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
 			name: 'Proton Mail',
 			icon: 'mail',
 			link: 'https://mail.protonmail.com/',
-		},		
+		},	
+		{
+			id: '2',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
+		},	
 		{
 			id: '3',
+			name: 'Messages',
+			icon: 'messages-square',
+			link: 'https://dash.cloudflare.com',
+		},
+		{
+			id: '4',
 			name: 'Cloudflare',
 			icon: 'cloud',
 			link: 'https://dash.cloudflare.com',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Tidal',
 			icon: 'music',
 			link: 'https://tidal.com',
 		},
 		{
-			id: '5',
+			id: '6',
 			name: 'Server Panel',
 			icon: 'server',
 			link: 'https://pufferpanel.prkrln.com',
-		},
-		{
-			id: '6',
-			name: 'Router',
-			icon: 'router',
-			link: 'https://192.168.0.200:8043',
 		},
 	],
 
