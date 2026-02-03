@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Messages',
 			icon: 'messages-square',
-			link: 'https://dash.cloudflare.com',
+			link: 'https://messages.google.com/web/conversations',
 		},
 		{
 			id: '4',
