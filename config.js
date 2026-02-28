@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Server Panel',
-			icon: 'server',
-			link: 'https://pufferpanel.prkrln.com',
+			name: 'RSS Reader',
+			icon: 'book',
+			link: 'https://feedly.com/i/my/me',
 		},
 	],
 
