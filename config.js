@@ -150,6 +150,10 @@ const CONFIG = {
 					name: 'Crafty',
 					link: 'https://192.168.0.177:30146',
 				},
+				{
+					name: 'Nextcloud',
+					link: 'https://192.168.0.177',
+				},
 			],
 		},
 		{
