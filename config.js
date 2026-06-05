@@ -135,24 +135,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'pc-case',
+			icon: 'router',
 			id: '1',
 			links: [
 				{
-					name: 'Framework',
-					link: 'https://frame.work',
+					name: 'Router',
+					link: 'https://192.168.0.1',
 				},
 				{
-					name: 'PC Part Picker',
-					link: 'https://pcpartpicker.com',
+					name: 'TrueNAS',
+					link: 'https://192.168.0.177',
 				},
 				{
-					name: 'Printables',
-					link: 'https://printables.com',
-				},
-				{
-					name: 'Maker World',
-					link: 'https://makerworld.com',
+					name: 'Crafty',
+					link: 'https://192.168.0.177:30146',
 				},
 			],
 		},
