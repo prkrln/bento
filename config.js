@@ -144,15 +144,15 @@ const CONFIG = {
 				},
 				{
 					name: 'TrueNAS',
-					link: 'https://192.168.0.177',
+					link: 'https://truenas.prkrln.com',
+				},
+				{
+					name: 'Immich',
+					link: 'https://immich.prkrln.com',
 				},
 				{
 					name: 'Crafty',
-					link: 'https://192.168.0.177:30146',
-				},
-				{
-					name: 'Nextcloud',
-					link: 'https://192.168.0.177',
+					link: 'https://crafty.prkrln.com',
 				},
 			],
 		},
